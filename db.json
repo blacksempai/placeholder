@@ -1,0 +1,101 @@
+{
+    "houses": [
+    {   
+    "id": 1,
+    "address": {
+        "city": "Kyiv",
+        "street": "Shevchenka",
+        "number": "12"
+      },
+      "rooms" : 10,
+      "owner" : {
+          "name": "Andrei"
+      },
+      "price": 1500
+    } ,
+
+    {   
+        "id": 2,
+        "address": {
+            "city": "Kyiv",
+            "street": "Leipcizka",
+            "number": "16"
+          },
+          "rooms" : 2,
+          "owner" : {
+              "name": "Misha"
+          },
+          "price": 600
+        } ,
+
+        {   
+        "id": 3,
+        "address": {
+            "city": "Poiltava",
+            "street": "Kyivska",
+            "number": "24"
+            },
+            "rooms" : 10,
+            "owner" : {
+                "name": "Vlad"
+            },
+            "price": 4000
+        } ,
+
+    {   
+        "id": 4,
+        "address": {
+            "city": "Lviv",
+            "street": "Heoiv Dnipra",
+            "number": "50A"
+            },
+            "rooms" : 10,
+            "owner" : {
+                "name": "Lena"
+            },
+            "price": 3800
+        } ,
+
+    {   
+        "id": 5,
+        "address": {
+            "city": "Kyiv",
+            "street": "Kyivska",
+            "number": "80"
+            },
+            "rooms" : 10,
+            "owner" : {
+                "name": "Andrei"
+            },
+            "price": 2000
+        } ,
+
+    {   
+        "id": 6,
+        "address": {
+            "city": "Kyiv",
+            "street": "Poltavska",
+            "number": "14"
+            },
+            "rooms" : 10,
+            "owner" : {
+                "name": "Kurama"
+            },
+            "price": 4000
+        } ,
+
+    {   
+        "id": 7,
+        "address": {
+            "city": "Kyiv",
+            "street": "POmoyka",
+            "number": "20"
+            },
+            "rooms" : 10,
+            "owner" : {
+                "name": "Andrei"
+            },
+            "price": 8900
+        } 
+    ]
+}
